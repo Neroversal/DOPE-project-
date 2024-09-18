@@ -14,6 +14,8 @@ This guide describes how to export AWS CloudWatch alarms to a CSV file using AWS
 - Ensure you have access to the AWS Management Console.
 - Ensure you have the necessary permissions to describe CloudWatch alarms.
 
+NB: You will need to run "aws configure" and input your IAM User secret credentials in cloudshell before performing the steps listed below.
+
 ### Steps
 
 1. **Open AWS CloudShell:**
